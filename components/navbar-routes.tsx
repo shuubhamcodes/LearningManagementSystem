@@ -3,7 +3,7 @@
 import { UserButton } from "@clerk/nextjs";
 import { usePathname } from "next/navigation";
 import Link from "next/link"; // Import Link from next/link
-import { Button } from "./button";
+import { Button } from "./ui/button";
 import { LogOut } from "lucide-react";
 
 export const NavbarRoutes = () => {

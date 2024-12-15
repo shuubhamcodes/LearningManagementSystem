@@ -20,7 +20,7 @@ const guestRoutes =[
 const teacherRoutes =[
     {
         icon:List,
-        label:"Dashboard",
+        label:"courses",
         href:"/teacher/courses",
     },
     {
